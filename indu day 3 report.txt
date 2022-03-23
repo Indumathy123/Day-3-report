@@ -1,0 +1,23 @@
+ PK INNOVATIVES 
+
+ Day 3 report:
+
+ Brief Introduction Selenium IDE :
+
+ Selenium Integrated Development Environment (IDE) is the simplest framework in the Selenium suite and is the easiest one to learn
+
+ Brief Introduction Selenium Remote Control (Selenium RC):
+
+ Selenium RC was the flagship testing framework of the whole Selenium project for a long time. This is the first automated web testing tool that allowed users to use a programming language they prefer
+
+ Brief Introduction WebDriver:
+
+ The WebDriver proves itself to be better than both Selenium IDE and Selenium RC in many aspects. It implements a more modern and stable approach in automating the browser’s actions.
+
+ Selenium grid and its features:
+
+ Selenium Grid is a tool used together with Selenium RC to run parallel tests across different machines and different browsers all at the same time. Parallel execution means running multiple tests at once.
+
+1.Enables simultaneous running of tests in multiple browsers and environments.
+2.Saves time enormously.
+3.Utilizes the hub-and-nodes concept. The hub acts as a central source of Selenium commands to each node connected to it.
